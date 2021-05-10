@@ -17,7 +17,6 @@ public class a {
                 System.out.println("Please enter the age between 1 to 100 ");
             } else {
                 notCorrectAge = false;
-
             }
 
         }
